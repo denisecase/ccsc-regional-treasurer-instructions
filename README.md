@@ -145,3 +145,9 @@ information.
 
 - Based on September 2014 version by Susan Dean, Consortium Treasurer
 - Updated 2020 by Denise Case, CCSC-CP Regional Treasurer
+- [Recent history](https://github.com/denisecase/ccsc-regional-treasurer-instructions/commits/master)
+
+## Links
+
+- [Published Page](https://denisecase.github.io/ccsc-regional-treasurer-instructions/)
+- [Source](https://github.com/denisecase/ccsc-regional-treasurer-instructions/edit/master/README.md)
