@@ -32,10 +32,7 @@ following your regional conference.
 - Conference registrations by check should be logged in a shared workbook with check date, payer, check number, and date deposited.
 Then, go into ConfTool, find their registration, and check the box to mark them paid. Put check info in the comment field. 
 - Endorse checks for deposit only, sign as regional treasurer, and deposit. Send CCSC Treasurer a scan of the deposit receipt, the current spreadsheet, and a cover email so it’s clear what is included in the deposit. 
-- Conference registrations by cash are strongly discouraged. Wells Fargo won’t take cash deposits from anyone without signature authority on the account. If you have cash, either: 
-1. Use Bank of America; 
-2. Write a check to CCSC to cover the cash and deposit the check; or 
-3. Get a money order or similar, any fees associated with that are a reimbursable conference expense. 
+- Conference registrations by cash are strongly discouraged. Wells Fargo won’t take cash deposits from anyone without signature authority on the account. If you have cash, either: 1) Use Bank of America; 2) write a check to CCSC to cover the cash and deposit the check; or 3) get a money order or similar (associated fees are a reimbursable conference expense). 
 
 ## Day of the Conference
 
