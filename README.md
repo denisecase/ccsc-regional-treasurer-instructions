@@ -8,10 +8,10 @@ You can find contact information for current officers at <http://www.ccsc.org/bo
 
 ## Duties
 
-1. Prepare Budgets
-2. Approve Expenditures, placing them in the appropriate budget
+1. Prepare conference budget
+2. Approve expenditures, placing them in the appropriate budget
 category.
-3. Monitor Expenditures, making sure expenditures are covered
+3. Monitor expenditures, making sure expenditures are covered
 by the budgeted amount. If an item exceeds a budgeted item,
 you must explain to the CCSC Treasurer how the item is to be
 covered, either by using another budgeted amount or by
@@ -22,6 +22,8 @@ the head tax and meals (or other items you have listed as a
 cost per registrant.) Also any amount over your budget for
 extra meals and proceedings will automatically cover any
 additional expenses for meals or for proceedings.
+4. Submit next year's conference budget to CCSC Comptroller the week 
+following your regional conference. 
 
 The IRS is requiring additional information in our annual return.
 The CCSC Treasurer must be able to place all expenditures into one of three
