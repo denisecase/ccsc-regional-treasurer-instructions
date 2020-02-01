@@ -6,7 +6,7 @@ Instructions for Consortium for Computing Sciences in Colleges (CCSC) regional t
 
 You can find contact information for current officers at <http://www.ccsc.org/board/>.
 
-## Duties
+## General Duties
 
 1. Prepare conference budget
 2. Approve expenditures, placing them in the appropriate budget
@@ -24,6 +24,32 @@ extra meals and proceedings will automatically cover any
 additional expenses for meals or for proceedings.
 4. Submit next year's conference budget to CCSC Comptroller the week 
 following your regional conference. 
+
+## Before the Conference
+
+-	If you receive any invoices, forward them to CCSC Treasurer explaining the purpose of the invoice. 
+- Conference registrations via PayPal are preferred; all information is handled automatically. 
+- Conference registrations by check should be logged in a shared workbook with check date, payer, check number, and date deposited.
+Then, go into ConfTool, find their registration, and check the box to mark them paid. Put check info in the comment field. 
+- Endorse checks for deposit only, sign as regional treasurer, and deposit. Send CCSC Treasurer a scan of the deposit receipt, the current spreadsheet, and a cover email so it’s clear what is included in the deposit. 
+- Conference registrations by cash are strongly discouraged. Wells Fargo won’t take cash deposits from anyone without signature authority on the account. If you have cash, either: 
+1. Use Bank of America; 
+2. Write a check to CCSC to cover the cash and deposit the check; or 
+3. Get a money order or similar, any fees associated with that are a reimbursable conference expense. 
+
+## Day of the Conference
+
+- Log people in at registrations and record payments. 
+- Students receiving prizes must fill out the appropriate form (http://www.ccsc.org/regions/documents/). If we’re sending checks we MUST have their name, address, and phone number, legibly. If we’re giving Amazon gift cards, they must fill out a form which serves as a receipt to verify distribution of the gift cards.  
+
+## After The Conference
+
+- Reconcile payments received against registration system records (e.g., ConfTool). 
+- Reconcile total expenses and income for final regional board report. 
+- Gather any invoices to be paid and forward them to the CCSC Treasurer. 
+- All reimbursement requests must be accompanied by receipts and a note explaining the line item and application of each expense. 
+
+## Required Classification of Expenses
 
 The IRS is requiring additional information in our annual return.
 The CCSC Treasurer must be able to place all expenditures into one of three
@@ -43,6 +69,8 @@ expenses will be divided equally between the exempt and fundraising categories.)
 If you are not sure where to classify a
 particular item, just tell the CCSC Treasurer as much about the expense as
 possible and they will classify it.
+
+## Dispering Funds
 
 The procedure for the CCSC Treasurer to disperse funds is as follows:
 
@@ -90,6 +118,8 @@ Services must be invoiced directly to the CCSC Treasurer.
 Make sure those associated with your region are aware of these
 policies.
 
+## Prizes
+
 The CCSC Treasurer will not provide gift cards for use as prizes. 
 If your conference chooses to award gift cards,
 this reimbursement is accomplished (as for other purcheses) via
@@ -97,22 +127,37 @@ the usual expense reimbursement forms. For each dispersement at
 the conference (whether by cash, check, or gift card), a receipt
 signed by the recipient must be submitted to The CCSC Treasurer.
 
-If you choose to allow cash, cash received at the conference can be used for prizes or any
-small reimbursements, but receipts must be submitted and a report
-of the source and disbursements of the cash must be submitted to
-the CCSC Treasurer and to the Membership Secretary.
-
 The Consortium has several credit cards which can be used to pay
 for expenses. You will need to authorize such uses. Provide
 contact information for the CCSC Treasurer to call the company with the numbers
 and the authorization to use the card.
 
-All checks should be made payable to the Consortium (which may be abbreviated CCSC) and deposited
-in a Consortium account. We are subject to strict fines for not 
-fully reporting all our income and expenses. Cash received must 
-either be deposited in a Consortium account or converted into a
+## Proof of Non-Profit
+
+If someone needs a W-9 form or the EIN from the Consortium,
+forward the request to the CCSC Treasurer. If you handle it, you may end up with
+a 1099 form which may result in an IRS audit. The CCSC Treasurer needs to be
+informed of all deposits made, along with a report that explains
+the source of the funds.
+
+## Cash Registrations
+
+Paying for conference registrations with cash is discouraged; we 
+recommend you do not allow cash payments. 
+If you choose to allow cash, cash received at the conference can be used for prizes or any
+small reimbursements, but receipts must be submitted and a report
+of the source and disbursements of the cash must be submitted to
+the CCSC Treasurer and to the Membership Secretary.
+
+Cash received must either be deposited in a Consortium account or converted into a
 check and sent to the Associate Treasurer with the notation that
 the amount was cash received.
+
+## Deposits
+
+All checks should be made **payable to CCSC** and deposited
+in a Consortium account. We are subject to strict fines for not 
+fully reporting all our income and expenses. 
 
 Funds received should be deposited or sent to the Associate
 Treasurer (contact the CCSC Treasurer for address if needed) within thirty days
@@ -122,12 +167,6 @@ If you receive a purchase order for payment, you can submit it to
 the CCSC Treasurer for invoicing; the CCSC Treasurer will inform you and the Registrar when
 payment is received. (Do not submit POs that are accompanied by
 a check; inform the CCSC Treasurer if you receive payment before the conference.)
-
-If someone needs a W-9 form or the EIN from the Consortium,
-forward the request to the CCSC Treasurer. If you handle it, you may end up with
-a 1099 form which may result in an IRS audit. The CCSC Treasurer needs to be
-informed of all deposits made, along with a report that explains
-the source of the funds.
 
 For each deposit you make, the CCSC Treasurer needs a PDF of the deposit slip and a
 spreadsheet similar to the PayPal confirmed deposit spreadsheets
