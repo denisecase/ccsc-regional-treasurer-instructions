@@ -37,7 +37,7 @@ Then, go into ConfTool, find their registration, and check the box to mark them 
 ## Day of the Conference
 
 - Log people in at registrations and record payments. 
-- Students receiving prizes must fill out the appropriate form (http://www.ccsc.org/regions/documents/). If we’re sending checks we MUST have their name, address, and phone number, legibly. If we’re giving Amazon gift cards, they must fill out a form which serves as a receipt to verify distribution of the gift cards. If you give multiple cards bundled as a single prize (e.g. a $40 prize consisting of 2 $20 gift cards), we only need a form for the amount ($40 in this example), not for each separate card. (We must be able to document that if, say, $500 in gift cards were purchases as prizes, then $500 in gift cards were distributed.)  
+- Students receiving prizes must fill out the appropriate form (http://www.ccsc.org/regions/documents/). If we’re sending checks we MUST have their name, address, and phone number, legibly. If we’re giving Amazon gift cards, they must fill out a form which serves as a receipt to verify distribution of the gift cards. If you give multiple cards bundled as a single prize (e.g. a $40 prize consisting of 2 $20 gift cards), we only need a form for the amount ($40 in this example), not for each separate card. (We must be able to document that if, say, $500 in gift cards were purchased as prizes, then $500 in gift cards were distributed.)  
 
 ## After The Conference
 
