@@ -122,7 +122,16 @@ Services must be invoiced directly to the CCSC Treasurer.
 Make sure those associated with your region are aware of these
 policies.
 
-## Prizes
+## Awarding Prizes
+
+Coordinators of the student contests (e.g. programming, poster, and paper contests), 
+will need to gather forms from the prize-winners when they distribute the gift card prizes. 
+For copies of the required forms, see <ccsc.org/regions/documents/>.
+
+Coordiators must get the necessary forms before gift cards can be awarded. 
+
+Some regions determine the prize amounts at the meeting about 3 months before the conference. 
+Email the treasurer with a list of gift cards and denominations and they will provide the cards. 
 
 If asked, the CCSC Treasurer will order gift cards for use as prizes. 
 If your conference chooses to award gift cards,
