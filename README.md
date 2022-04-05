@@ -8,36 +8,43 @@ You can find contact information for current officers at <http://www.ccsc.org/bo
 
 ## General Duties
 
-1. Prepare conference budget
-2. Approve expenditures, placing them in the appropriate budget
-category.
-3. Monitor expenditures, making sure expenditures are covered
-by the budgeted amount. If an item exceeds a budgeted item,
-you must explain to the CCSC Treasurer how the item is to be
-covered, either by using another budgeted amount or by
-additional income received than budgeted. You do not need
-to explain additional expenses due to increases in
-registrations for those items tied to registration, such as
-the head tax and meals (or other items you have listed as a
-cost per registrant.) Also, any amount over your budget for
-extra meals and proceedings will automatically cover any
-additional expenses for meals or for proceedings.
-4. Submit next year's conference budget to CCSC Comptroller the week 
-following your regional conference. 
+1. Work with conference chair to prepare conference budget when the new chair/location is chosen. 
+2. Share the last few years of conference budgets with the new chair once the chair/location is announced. 
+3. Submit next year's conference budget (draft) to CCSC Comptroller several weeks before your current regional conference.
+4. Submit next year's conference budget (final) to CCSC Comptroller the week following your current regional conference. 
+5. At the planning meeting about three months before this year's regional conference, decide on student prizes. 
+6. After the planning meeting, email the CCSC Treasurer a list of gift cards / denominations needed for planned student prizes. 
+7. Approve expenditures, placing them in the appropriate budget category.
+8. Monitor expenditures, making sure expenditures are covered by the budgeted amount. 
+   - If an item exceeds a budgeted item, explain to the CCSC Treasurer how the item is to be covered, either by using another budgeted amount or by additional income received than budgeted. 
+   - You do not need to explain additional expenses due to increases in registrations for those items tied to registration, such as head tax and meals (or other items you have listed as a cost per registrant.) 
+   - Also, any amount over your budget for extra meals and proceedings will automatically cover any additional expenses for meals or for proceedings.
 
 ## Before the Conference
 
 -	If you receive any invoices, forward them to CCSC Treasurer explaining the purpose of the invoice and the budget line item they should be charged against. 
+
+## Receiving Payments
+
 - Conference registrations via PayPal are preferred; all information is handled automatically. 
-- Conference registrations by check should be logged in a shared workbook with check date, payer, check number, date deposited, and the invoice or registration that is being covered by this check.
-Then, go into ConfTool, find their registration, and check the box to mark them paid. Put check info in the comment field. 
-- Endorse checks for deposit only, sign as regional treasurer, and deposit. Send CCSC Treasurer a scan of the deposit receipt, the current spreadsheet, and a cover email so it’s clear what is included in the deposit. 
-- Conference registrations by cash are strongly discouraged. Wells Fargo won’t take cash deposits from anyone without signature authority on the account. If you have cash, either: 1) Use Bank of America; 2) write a check to CCSC to cover the cash and deposit the check; or 3) get a money order or similar (associated fees are a reimbursable conference expense). 
+- Checks: 
+  - Conference registrations by check should be logged in a shared workbook with check date, payer, check number, date deposited, and the invoice or registration covered by this check. 
+  - Then, go into ConfTool, find their registration, and check the box to mark them paid. Put check info in the comment field. 
+  - Endorse checks for deposit only, sign as regional treasurer, and deposit. 
+  - Send CCSC Treasurer a scan of the deposit receipt, the current spreadsheet, and a cover email so it’s clear what is included in the deposit. 
+- Cash:
+  - Conference registrations by cash are strongly discouraged. 
+  - Wells Fargo won’t take cash deposits from anyone without signature authority on the account. 
+  - If you have cash, either: 1) Use Bank of America; 2) write a check to CCSC to cover the cash and deposit the check; or 3) get a money order or similar (associated fees are a reimbursable conference expense). 
 
 ## Day of the Conference
 
-- Log people in at registrations and record payments. 
-- Students receiving prizes must fill out the appropriate form (http://www.ccsc.org/regions/documents/). If we’re sending checks we MUST have their name, address, and phone number, legibly. If we’re giving Amazon gift cards, they must fill out a form which serves as a receipt to verify distribution of the gift cards. If you give multiple cards bundled as a single prize (e.g. a $40 prize consisting of 2 $20 gift cards), we only need a form for the amount ($40 in this example), not for each separate card. (We must be able to document that if, say, $500 in gift cards were purchased as prizes, then $500 in gift cards were distributed.)  
+- The conference registrar will log people in at registration and record payments. 
+- Students receiving prizes must fill out the appropriate form (http://www.ccsc.org/regions/documents/). 
+  - If we’re sending checks we MUST have their name, address, and phone number, legibly. 
+  - If we’re giving Amazon gift cards, they must fill out a form which serves as a receipt to verify distribution of the gift cards. 
+  - If you give multiple cards bundled as a single prize (e.g. a $40 prize consisting of 2 $20 gift cards), we only need a form for the amount ($40 in this example), not for each separate card. 
+  - We must be able to document that if, say, $500 in gift cards were purchased as prizes, then $500 in gift cards were distributed.
 
 ## After The Conference
 
@@ -117,16 +124,17 @@ policies.
 
 ## Prizes
 
-The CCSC Treasurer will not provide gift cards for use as prizes. 
+If asked, the CCSC Treasurer will order gift cards for use as prizes. 
 If your conference chooses to award gift cards,
 this reimbursement is accomplished (as for other purcheses) via
-the usual expense reimbursement forms. For each disbursement at
-the conference (whether by cash, check, or gift card), a receipt
-signed by the recipient must be submitted to The CCSC Treasurer.
+the usual expense reimbursement forms. 
+For each disbursement at the conference (whether by cash, check, or gift card), a receipt
+signed by the recipient must be submitted to the student contest coordinator, 
+who will then submit the complete set to the CCSC Treasurer.
 
-The Consortium has several credit cards which can be used to pay
-for expenses. You will need to authorize such uses. Provide
-contact information for the CCSC Treasurer to call the company with the numbers
+The Consortium has several credit cards which can be used to pay for expenses. 
+You will need to authorize such uses. 
+Provide contact information for the CCSC Treasurer to call the company with the numbers
 and the authorization to use the card.
 
 ## Proof of Non-Profit
@@ -139,8 +147,7 @@ the source of the funds.
 
 ## Cash Registrations
 
-Paying for conference registrations with cash is discouraged; we 
-recommend you do not allow cash payments. 
+Paying for conference registrations with cash is discouraged; we recommend you do not allow cash payments. 
 If you choose to allow cash, cash received at the conference can be used for prizes or any
 small reimbursements, but receipts must be submitted and a report
 of the source and disbursements of the cash must be submitted to
@@ -152,8 +159,8 @@ the amount was cash received.
 
 ## Deposits
 
-All checks should be made **payable to CCSC** and deposited
-in a Consortium account. We are subject to strict fines for not 
+All checks should be made **payable to CCSC** and deposited in a Consortium account. 
+We are subject to strict fines for not 
 fully reporting all our income and expenses. 
 
 Funds received should be deposited or sent to the Associate
@@ -181,8 +188,9 @@ information.
 
 ## History 
 
-- Based on September 2014 version by Susan Dean, Consortium Treasurer
+- Updated 2022 by Denise Case, CCSC-CP Regional Treasurer; Brian Hare, Consortium Treasurer
 - Updated 2020 by Denise Case, CCSC-CP Regional Treasurer; Brian Hare, Consortium Treasurer
+- Based on September 2014 version by Susan Dean, Consortium Treasurer
 - [Recent history](https://github.com/denisecase/ccsc-regional-treasurer-instructions/commits/master)
 
 ## Links
