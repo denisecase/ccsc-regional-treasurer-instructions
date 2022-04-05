@@ -23,6 +23,10 @@ You can find contact information for current officers at <http://www.ccsc.org/bo
 ## Before the Conference
 
 -	If you receive any invoices, forward them to CCSC Treasurer explaining the purpose of the invoice and the budget line item they should be charged against. 
+-	Agree at the planning meeting 3 months out what student prizes will be awarded. For example:
+   - Student programming contest: Assumming 3 per team, awarding first prize, second prize, third prize: 3 at 90$, 3 at $50, 3 at $25. 
+   - Student poster contest: 
+   - Student paper contest: 
 
 ## Receiving Payments
 
